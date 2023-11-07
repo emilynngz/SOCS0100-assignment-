@@ -1,1 +1,2 @@
 # SOCS0100-assignment-
+This is a data exploration project of the share of the population with access to electricity and clean fuels for cooking. The original data set if from https://github.com/owid/owid-datasets/blob/master/datasets/Number%20of%20people%20with%20and%20without%20energy%20access%20(OWID%20based%20on%20World%20Bank,%202021)/Number%20of%20people%20with%20and%20without%20energy%20access%20(OWID%20based%20on%20World%20Bank,%202021).csv
